@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="textView_value">Text</string>
+    <string name="button_value">Button</string>
+</resources>
